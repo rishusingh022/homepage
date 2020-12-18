@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-      color: #fff;
-      background: url(Drawing.png) no-repeat 50% 50%;
+      color: rgb(7, 7, 7);
+      background: url(background.png) no-repeat 50% 50%;
       background-size: cover;
       overflow-x: hidden;
 }
@@ -28,17 +28,17 @@ body {
 
 #showcase img {
       cursor: pointer;
-      opacity: 0.6;
+      opacity: 1;
 }
 
 #item-title {
-      color: #fff;
+      color: rgb(7, 7, 7);
       font-size: 30px;
       letter-spacing: 0.13em;
       text-align: center;
       margin-top: -20px;
       margin-bottom: 32px;
-      font-family: monospace;
+      font-family: Fantasy;
 }
 
 .nav {
